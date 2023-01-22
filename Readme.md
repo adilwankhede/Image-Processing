@@ -5,3 +5,4 @@ Codes are part of ESPACE Image processing and Photogrammetry course
 1. Image characterization
 2. Sobel filter and Non-suppression algorithm for edge detection
 3. Contour finding
+4. Hough transformation
